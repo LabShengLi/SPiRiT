@@ -100,14 +100,7 @@ HER2 experiment results will be saved to:
 | **Xenium Breast Cancer** | `python Xenium/SPiRiT_xenium.py` | `/workspace/output` |
 | **HER2 ST Dataset** | `python HER2/CVPrediction.py`<br>`python HER2/WangCorrelation.py`<br>`python HER2/Visualization.py` | `/workspace/output/spirit_cv` |
 
----
 
-If needed, we can additionally provide:
-
-- Singularity/Apptainer instructions for HPC  
-- Example output figures  
-- Benchmarking scripts  
-- Detailed documentation for each module  
 
 
 
